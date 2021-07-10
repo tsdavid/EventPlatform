@@ -3,7 +3,7 @@ Event Platform Using Message Broker
 
 
 # Event Platform Process Github
-> [EventPlatformProcess (Event-Manger, Event-Tasker](https://github.com/tsdavid/EventPlatformProcess)
+> [Get to know with EventPlatformProcess (Event-Manger, Event-Tasker). please click here.](https://github.com/tsdavid/EventPlatformProcess)
 
 # Event Watcher Github
->[Event-Watcher](https://github.com/tsdavid/EventWatcher)
+>[Get to know with Event-Watcher.  please click here.](https://github.com/tsdavid/EventWatcher)
